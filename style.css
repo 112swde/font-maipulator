@@ -1,0 +1,33 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(101, 230, 230);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.copy_right_footer
+{
+    bottom: 0;
+    position: fixed;
+    color: white;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    font-family:'Arial', sans-serif;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
